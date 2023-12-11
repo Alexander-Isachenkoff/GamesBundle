@@ -1,0 +1,10 @@
+<runnableFiles>
+    <runnableFile path="..\2048\2048.jar" name="2048"/>
+    <runnableFile path="..\Lines\Lines.jar" name="Lines"/>
+    <runnableFile path="..\Pong\Pong.jar" name="Pong"/>
+    <runnableFile path="..\Runner\Runner.jar" name="Runner"/>
+    <runnableFile path="..\BouncyBall\BouncyBall.jar" name="BouncyBall"/>
+    <runnableFile path="..\Blocks\Blocks.jar" name="Blocks"/>
+    <runnableFile path="..\Snake\Snake.jar" name="Snake"/>
+    <runnableFile path="..\DoodleJumpFX\DoodleJumpFX.jar" name="DoodleJumpFX"/>
+</runnableFiles>
